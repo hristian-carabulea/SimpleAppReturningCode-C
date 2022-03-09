@@ -18,8 +18,8 @@ namespace SimpleAppReturningCode
             // Console.ReadLine();
 
             // Return an arbitrary error code.
-            // return 0; // succeeded
-            return -1; // failed
+             return 0; // succeeded
+            // return -1; // failed
         }
     }
 }
